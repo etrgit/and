@@ -17,9 +17,9 @@ google-analytics: UA-test
 ask-jamie: non-empty string
 
 # Hero Banner
-hero-title: Isomer Page Template
-hero-subtitle: This website was built using the Isomer Design System and Jekyll
-hero-banner: /images/banner_GardenBay.png
+hero-title: Cabinet de Avocatură Saveli Andreea
+hero-subtitle: Când aveți nevoie de specialiști, apelați la noi
+hero-banner: /images/ca_hero-banner.jpg
 
 #Call to Action Button
 button:
