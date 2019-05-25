@@ -27,14 +27,14 @@ button:
     url: /who-we-are/
 
 # Hero Dropdown Main Tex
-#hero-dropdown-text: "I am a"
+hero-dropdown-text: "I am a"
 
 # I want to dropdown
-#i-want-to:
-#  - title: apply for licence
-#    url: /application-guidelines/applying-for-licence/
-#  - title: cancel hotel licence
-#    url: /application-guidelines/cancellation-of-licence/
+i-want-to:
+  - title: apply for licence
+    url: /application-guidelines/applying-for-licence/
+  - title: cancel hotel licence
+    url: /application-guidelines/cancellation-of-licence/
 
 
 # Key Highlights
